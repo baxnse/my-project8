@@ -4,7 +4,7 @@ public class addApp {
 
     public static void main(String[] args) {
         System.out.println(add(3,5));
-        System.out.printf("%d", add(3,5));
+        System.out.printf("%d\n", add(3,5));
         System.out.println("test");
     }
 
