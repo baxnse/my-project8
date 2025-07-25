@@ -7,6 +7,7 @@ public class addApp {
         System.out.printf("%4d", add(7,2));
         System.out.printf("%d\n", add(3,5));
         //System.out.println("test");
+        System.out.println("test of merge");
     }
 
     public static int add(int a, int b) {
