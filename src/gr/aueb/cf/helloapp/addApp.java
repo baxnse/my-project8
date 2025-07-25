@@ -6,7 +6,7 @@ public class addApp {
         System.out.println(add(3,5));
         System.out.printf("%4d", add(7,2));
         System.out.printf("%d\n", add(3,5));
-        System.out.println("test");
+        //System.out.println("test");
     }
 
     public static int add(int a, int b) {
